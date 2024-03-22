@@ -1,6 +1,6 @@
 # CNN-and-RNN-exploration
 ### This is project is under the instruction of Professor Adriana Kovashka and it was designed by Mingda Zhang
-### The purpose of this project is to reconstruct the Convolution Neural Network such as the AlexNET and the variation of it and rebuilding the classical Recurrance Nerual Network of GRU, LSTM, Peephole LSTM, and Coupled LSTM.
+### The purpose of this project is to reconstruct the Convolution Neural Network such as the AlexNET and the variation of it and rebuilding the classical Recurrence Nerual Network of GRU, LSTM, Peephole LSTM, and Coupled LSTM.
 #### The reference of the RNN could be found here: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### Below is the structure of the AlexNET and it variation
 ## AlexNET
